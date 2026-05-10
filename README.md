@@ -23,14 +23,13 @@
 **A dual-mode cybersecurity desktop application that simulates real-world Red Team attacks and Blue Team defenses against DVWA — built with Java 17, JavaFX 21, and 8 core data structures.**
 
 <br/>
-🎓 CSC211 — Data Structures | COMSATS University Islamabad
-👨‍💻 Muhammad Zakria
-🧑‍🏫 Supervised by: Ms. Najla Raza
-
+> 🎓 **CSC211 — Data Structures** | COMSATS University Islamabad  
+> 👨‍💻 **Muhammad Zakria**  
+> 🧑‍🏫 **Supervised by:** Ms. Najla Raza
+ 
 <br/>
-[![GitHub](https://img.shields.io/badge/GitHub-Md--zakria-181717?style=for-the-badge&logo=github)](https://github.com/Md-zakria)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Zakria-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-zakria-9914a0325)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ZAKxOB-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/ZAKxOB)
+[![Stars](https://img.shields.io/github/stars/Md-zakria/WebGuard-Pro?style=social)](https://github.com/Md-zakria/WebGuard-Pro)
+[![Forks](https://img.shields.io/github/forks/Md-zakria/WebGuard-Pro?style=social)](https://github.com/Md-zakria/WebGuard-Pro)
 </div>
 
 ---
