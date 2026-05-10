@@ -23,10 +23,9 @@
 **A dual-mode cybersecurity desktop application that simulates real-world Red Team attacks and Blue Team defenses against DVWA — built with Java 17, JavaFX 21, and 8 core data structures.**
 
 <br/>
-
-> 🎓 **CSC211 — Data Structures** | COMSATS University Islamabad  
-> 👨‍💻 **Muhammad Zakria** (Red Team) ·  (Blue Team)  
-> 🧑‍🏫 **Supervised by:** Ms. Najla Raza
+🎓 CSC211 — Data Structures | COMSATS University Islamabad
+👨‍💻 Muhammad Zakria
+🧑‍🏫 Supervised by: Ms. Najla Raza
 
 <br/>
 
