@@ -25,7 +25,7 @@
 <br/>
 
 > 🎓 **CSC211 — Data Structures** | COMSATS University Islamabad  
-> 👨‍💻 **Muhammad Zakria** (Red Team) · 👩‍💻 **Hafsa Mushtaq** (Blue Team)  
+> 👨‍💻 **Muhammad Zakria** (Red Team) ·  (Blue Team)  
 > 🧑‍🏫 **Supervised by:** Ms. Najla Raza
 
 <br/>
