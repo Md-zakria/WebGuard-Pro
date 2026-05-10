@@ -28,10 +28,9 @@
 🧑‍🏫 Supervised by: Ms. Najla Raza
 
 <br/>
-
-[![Stars](https://img.shields.io/github/stars/Md-zakria/WebGuard-Pro?style=social)](https://github.com/Md-zakria/WebGuard-Pro)
-[![Forks](https://img.shields.io/github/forks/Md-zakria/WebGuard-Pro?style=social)](https://github.com/Md-zakria/WebGuard-Pro)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Md--zakria-181717?style=for-the-badge&logo=github)](https://github.com/Md-zakria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Zakria-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-zakria-9914a0325)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ZAKxOB-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/ZAKxOB)
 </div>
 
 ---
